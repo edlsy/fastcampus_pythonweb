@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Project Label",
+            "label": "fastcampus_pythonweb",
             "type": "shell",
             "command": "python",
             "args": [
